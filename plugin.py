@@ -1,5 +1,5 @@
 
-# Basic Python Plugin Example
+# IntesisHome Inegration with  Domoticz
 #
 # Author: CV8R
 #
