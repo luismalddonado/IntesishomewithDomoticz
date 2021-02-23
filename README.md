@@ -1,8 +1,9 @@
 # Introduction
 
-This Domoticz plugin implements Intesis WMP protocol for Domoticz 
+This Domoticz plugin implements Intesis [WMP protocol](https://cdn.hms-networks.com/docs/librariesprovider11/manuals-design-guides/wmp-protocol-specifications.pdf?sfvrsn=339b5cd7_6) for Domoticz 
 
-https://cdn.hms-networks.com/docs/librariesprovider11/manuals-design-guides/wmp-protocol-specifications.pdf?sfvrsn=339b5cd7_6
+
+This pulgin can be used for example with the [Fujitsu RAC and VRF systems to Home Automation Interface (to remote controller)](https://www.intesis.com/products/ac-interfaces/wifi-gateways/fujitsu-ascii-wifi-vrf-fj-rc-wmp-1?ordercode=INWMPFGL001R000).
 
 # Installation
 
