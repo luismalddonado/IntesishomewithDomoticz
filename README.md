@@ -18,5 +18,5 @@ git clone https://github.com/luismalddonado/IntesishomewithDomoticz
 
 # Support
 
-[Domoticz forum](https://www.domoticz.com/forum/viewtopic.php?p=269565#p269565)
+[Domoticz forum](https://www.domoticz.com/forum/viewtopic.php?f=34&t=28194)
 
