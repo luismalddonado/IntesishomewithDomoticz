@@ -15,3 +15,8 @@ git clone https://github.com/luismalddonado/IntesishomewithDomoticz
 2. Restart domoticz
 3. Go to "Hardware" page and add new item with type "IntesisBox WMP-1 Protocol"
 4. Set your Intesis device address and port to plugin settings
+
+# Support
+
+[Domoticz forum](https://www.domoticz.com/forum/viewtopic.php?p=269565#p269565)
+
